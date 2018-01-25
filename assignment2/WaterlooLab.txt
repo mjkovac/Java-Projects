@@ -1,0 +1,4 @@
+iPhone4,12
+iPhone4s,90
+Android10,-50
+Android11,-25

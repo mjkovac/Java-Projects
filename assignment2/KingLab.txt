@@ -1,0 +1,4 @@
+iPhone4,1
+iPhone4s,-15
+iPhone5,-50
+iPhone5s,60

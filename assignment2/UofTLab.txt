@@ -1,0 +1,9 @@
+iPhone6,35
+Blackberry4,5
+Blackberry1,-91
+iPhone6s,40
+Android,25
+iPhone4,3
+Blackberry,15
+Blackberry10,-17
+iPhone7,20
